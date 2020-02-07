@@ -186,11 +186,6 @@ body {
         background: #fff;
     }
 
-    .footer__nav li {
-        flex: 0 0 20%;
-        max-width: 20%;
-    }
-
     .footer__nav .footer__link {
         display: block;
         width: 100%;
